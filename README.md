@@ -5,6 +5,7 @@ Utiliza el diseño Responsivo y desarrollado bajo el concepto "Mobile-First".
 
 
 Este proyecto fue generado usando las siguiente tecnologías:
+```
     HTML5
     CSS3
     BOOTSTRAP 4.2
@@ -21,5 +22,6 @@ Este proyecto fue generado usando las siguiente tecnologías:
     STICKIT.JS
     PAGESCROLL2ID.JS
     CSS_BROWSER_SELECTOR.JS
+```
 
 
